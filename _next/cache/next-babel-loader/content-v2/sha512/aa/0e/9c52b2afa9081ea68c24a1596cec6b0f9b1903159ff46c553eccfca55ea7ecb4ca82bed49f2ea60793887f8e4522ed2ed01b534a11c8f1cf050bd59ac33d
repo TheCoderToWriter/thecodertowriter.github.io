@@ -1,0 +1,1 @@
+{"ast":null,"code":"import contact from './contact';\nimport home from './home';\nimport page from './page';\nimport post from './post';\nexport { contact, home, page, post };\nexport default {\n  contact: contact,\n  home: home,\n  page: page,\n  post: post\n};","map":null,"metadata":{},"sourceType":"module"}
